@@ -1,10 +1,14 @@
-#Symfony2 HelloSign Bundle
+#Symfony2/Symfony3 HelloSign Bundle
 
-[![Build Status](https://travis-ci.org/Bukashk0zzz/HelloSignBundle.svg)](https://travis-ci.org/Bukashk0zzz/HelloSignBundle)
+[![Build Status](https://img.shields.io/scrutinizer/build/g/Bukashk0zzz/HelloSignBundle.svg?style=flat-square)](https://travis-ci.org/Bukashk0zzz/HelloSignBundle)
+[![Code Coverage](https://img.shields.io/codecov/c/github/Bukashk0zzz/HelloSignBundle.svg?style=flat-square)](https://codecov.io/github/Bukashk0zzz/HelloSignBundle)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/Bukashk0zzz/HelloSignBundle.svg?style=flat-square)](https://scrutinizer-ci.com/g/Bukashk0zzz/HelloSignBundle/?branch=master)
+[![License](https://img.shields.io/packagist/l/Bukashk0zzz/hellosign-bundle.svg?style=flat-square)](https://packagist.org/packages/Bukashk0zzz/hellosign-bundle)
+[![Latest Stable Version](https://img.shields.io/packagist/v/Bukashk0zzz/hellosign-bundle.svg?style=flat-square)](https://packagist.org/packages/Bukashk0zzz/hellosign-bundle)
+[![Total Downloads](https://img.shields.io/packagist/dt/Bukashk0zzz/hellosign-bundle.svg?style=flat-square)](https://packagist.org/packages/Bukashk0zzz/hellosign-bundle)
+[![Dependency Status](https://www.versioneye.com/user/projects/56780cf8107997002d00131d/badge.svg?style=flat)](https://www.versioneye.com/user/projects/56780cf8107997002d00131d)
 
-[![Code Coverage](https://scrutinizer-ci.com/g/Bukashk0zzz/HelloSignBundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Bukashk0zzz/HelloSignBundle/?branch=master)
-
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Bukashk0zzz/HelloSignBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Bukashk0zzz/HelloSignBundle/?branch=master)
+[![knpbundles.com](http://knpbundles.com/Bukashk0zzz/HelloSignBundle/badge-short)](http://knpbundles.com/Bukashk0zzz/HelloSignBundle)
 
 About
 -----

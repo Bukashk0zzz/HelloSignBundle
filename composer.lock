@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6252b6689abacf6e0ed71c55f9abd177",
-    "content-hash": "e7aec937f629d6f5617d156dcbfce0c6",
+    "hash": "388b5eba72de8a2e62445096c2157216",
+    "content-hash": "97b118d9cbfa1d3e0c56bdc1f61e69ac",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -2033,16 +2033,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "dev-master",
+            "version": "2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "3ff26887ad9336fd0424e49c7034c8f04e746d46"
+                "reference": "e4fb41d5d0387d556e2c25534d630b3cce90ea67"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/3ff26887ad9336fd0424e49c7034c8f04e746d46",
-                "reference": "3ff26887ad9336fd0424e49c7034c8f04e746d46",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/e4fb41d5d0387d556e2c25534d630b3cce90ea67",
+                "reference": "e4fb41d5d0387d556e2c25534d630b3cce90ea67",
                 "shasum": ""
             },
             "require": {
@@ -2106,14 +2106,13 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2015-12-21 00:19:19"
+            "time": "2015-12-11 00:12:46"
         }
     ],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "hellosign/hellosign-php-sdk": 20,
-        "squizlabs/php_codesniffer": 20
+        "hellosign/hellosign-php-sdk": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

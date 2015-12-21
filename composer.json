@@ -1,6 +1,6 @@
 {
     "name": "bukashk0zzz/hellosign-bundle",
-    "description": "A simple Symfony2 bundle for the official sdk provided by HelloSign.",
+    "description": "A simple Symfony2/Symfony3 bundle for the official sdk provided by HelloSign.",
     "keywords": ["bundle", "symfony", "hellosign", "hello sign"],
     "homepage": "https://github.com/bukashk0zzz/HelloSignBundle",
     "type": "symfony-bundle",
@@ -23,7 +23,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0",
-        "squizlabs/php_codesniffer": "dev-master",
+        "squizlabs/php_codesniffer": "^2.5",
         "escapestudios/symfony2-coding-standard": "~2.7"
     },
     "autoload": {
