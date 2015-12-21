@@ -1,0 +1,6 @@
+parameters:
+    hellosign.client.class: Bukashk0zzz\HelloSignBundle\Service\HelloSignClient
+
+services:
+    hellosign.client:
+        class: "%hellosign.client.class%"
