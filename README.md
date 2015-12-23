@@ -32,7 +32,7 @@ Add the bundle to `app/AppKernel.php`
 ```php
 $bundles = array(
 	// ... other bundles
-	new Bukashk0zzz\HelloSignBundle\HelloSignBundle(),
+	new Bukashk0zzz\HelloSignBundle\Bukashk0zzzHelloSignBundle(),
 );
 ```
 
