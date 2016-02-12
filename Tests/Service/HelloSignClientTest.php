@@ -25,7 +25,7 @@ class HelloSignClientTest extends \PHPUnit_Framework_TestCase
     /**
      * @test
      */
-    public function testTwilioWrapper()
+    public function testWrapper()
     {
         $helloSign = new HelloSignClient('XXX');
 
