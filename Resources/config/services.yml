@@ -3,4 +3,4 @@ parameters:
 
 services:
     hellosign.client:
-        class: "%hellosign.client.class%"
+        class: '%hellosign.client.class%'
